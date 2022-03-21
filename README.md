@@ -44,8 +44,7 @@
 
 언제? 요구사항이 명확할 때, 비지니스 로직을 짤 때, 협업시 명세서(문서) 역할을 하도록, 설계에 대한 고민이 필요할 때
 
-![20201127175125_ivuceleb.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/9e57076d-c6e1-45ef-98df-6a9697abd8d9/20201127175125_ivuceleb.png)
-
+![20201127175125_ivuceleb](https://user-images.githubusercontent.com/90097736/159206700-2a679150-0ebf-4262-8952-5493ef41a96c.png)
 [https://www.hanbit.co.kr/media/channel/view.html?cms_code=CMS6706987091](https://www.hanbit.co.kr/media/channel/view.html?cms_code=CMS6706987091)
 
 그럼 언제 안함? ui를 작성할 땐 TDD하지 않음
@@ -73,11 +72,10 @@ Continues Deployment(Delivery)
 - watchall은 모든 파일의 test파일을 테스트
 - git을 이용하고 있다면 변경된 파일만 추적하는 watch를 사용하는 것이 좋음
     
-    ![스크린샷 2022-01-24 14.30.05.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b15ac18b-d6b0-4979-bddc-0dcc4ecb6966/스크린샷_2022-01-24_14.30.05.png)
+<img width="1103" alt="스크린샷 2022-01-24 14 30 05" src="https://user-images.githubusercontent.com/90097736/159206736-df22396d-84c5-469d-ae7d-433864d359ae.png">
 
 - Promise 등 비동기 함수 테스트하기
-
-![스크린샷 2022-01-24 15.32.07.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c668265f-a96f-431a-9a02-9b52a82387c2/스크린샷_2022-01-24_15.32.07.png)
+<img width="1100" alt="스크린샷 2022-01-24 15 32 07" src="https://user-images.githubusercontent.com/90097736/159206744-994ed25a-2b58-4e57-abb4-d65b8ab8e56f.png">
 
 ### 좋은 테스트의 원칙
 
